@@ -1,0 +1,10 @@
+tkhtmlview==0.1.0.post1
+tkinterhtml==0.7
+pygame==2.0.1
+json5==0.9.5
+python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1600278539111/work
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+ujson @ file:///opt/concourse/worker/volumes/live/2fc9988c-ebca-4577-6c4b-7383ea76e8ee/volume/ujson_1602523306974/work
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+
